@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 master 做了修改
 
-=======
+Git 远程仓库
+
 Jame 分支也修改了这里
->>>>>>> Jame_dev
 from multiprocessing import Process,Value
 import time
 import random
