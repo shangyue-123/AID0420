@@ -1,7 +1,7 @@
 import threading
 from time import sleep
 
-#做了一個方案一
+#做了一個方案二
 
 #线程函数
 def music():
